@@ -183,7 +183,6 @@ def first(s, productions, computed=None):
 """Working with grammar"""
 
 if __name__ == "__main__":
-  productions = dict()
   first_dict = dict()
   follow_dict = dict ()
 
